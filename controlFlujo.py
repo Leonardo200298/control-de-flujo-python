@@ -4,11 +4,12 @@ perfiles = {
         "apellido":"waters",
         "edad":23
     },
-        "usuario2":{
+    "usuario2":{
         "nombre":"frank",
         "apellido":"cuesta",
         "edad":21
-    },    "usuario3":{
+    },    
+    "usuario3":{
         "nombre":"Lionel",
         "apellido":"Rijak",
         "edad":26
